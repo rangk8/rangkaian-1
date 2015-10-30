@@ -161,7 +161,7 @@ body {
 
 .wrapper-header {
   *zoom: 1;
-  background: #F2F1F1; }
+  background: #F6ED69; }
   .wrapper-header:before, .wrapper-header:after {
     content: "";
     display: table; }
@@ -178,18 +178,21 @@ body {
     font-weight: 600;
     font-style: normal;
     font-stretch: normal;
-    color: #F6ED69;
+    color: #333333;
     float: left;
     font-size: 18px;
     line-height: 60px;
+	position: relative;
+	 top: 1px;
     text-transform: uppercase; }
+	
   @media all and (min-width: 1024px) {
     .wrapper-header .logo {
       max-width: 120px;
       top: 5px; }
     .wrapper-header .name {
       font-size: 36px;
-      line-height: 120px; } }
+      line-height: 320px; } }
   .wrapper-header .social-nav-icons {
     display: none; }
     .wrapper-header .social-nav-icons a {
@@ -207,7 +210,7 @@ body {
         line-height: 120px; } }
 
 .wrapper-digital {
-  background: #F6ED69;
+  background: white;
   padding-bottom: 25px; }
   .wrapper-digital > div a {
     border-bottom: 1px solid white;
