@@ -23,7 +23,7 @@
   width: 1px !important; }
 
 @font-face {
-  font-family: 'Times New Roman';
+  font-family: 'Montserrat', sans-serif;
   src: url("/ui/fonts/Times New Roman/fonts/Times New Roman.eot?ij9xs5");
   src: url("/ui/fonts/Times New Roman/fonts/Times New Roman.eot?#iefixij9xs5") format("embedded-opentype"), url("/ui/fonts/Times New Roman/fonts/Times New Roman.woff?ij9xs5") format("woff"), url("/ui/fonts/Times New Roman/fonts/Times New Roman.ttf?ij9xs5") format("truetype"), url("/ui/fonts/Times New Roman/fonts/Times New Roman.svg?ij9xs5#Times New Roman") format("svg");
   font-weight: normal;
@@ -274,7 +274,7 @@ body {
     font-style: normal;
     font-stretch: normal;
     letter-spacing: 1px;
-    color: white;
+    color: #333333;
     font-size: 28px;
     line-height: 1.25em;
     margin-right: 14px;
