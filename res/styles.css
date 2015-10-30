@@ -132,7 +132,8 @@ body {
   padding-top: 40px;
   padding-bottom: 40px; }
   .wrapper-content > div {
-    color: #F2F1F1;
+    color: #333333;
+	background: #F2F1F1
     margin: 0 auto;
     max-width: 1280px;
     padding-right: 14px;
