@@ -178,7 +178,7 @@ body {
     font-weight: 600;
     font-style: normal;
     font-stretch: normal;
-    color: #039BE5;
+    color: #F6ED69;
     float: left;
     font-size: 18px;
     line-height: 60px;
@@ -193,7 +193,7 @@ body {
   .wrapper-header .social-nav-icons {
     display: none; }
     .wrapper-header .social-nav-icons a {
-      color: #039BE5; }
+      color: #F6ED69; }
     @media all and (min-width: 640px) {
       .wrapper-header .social-nav-icons {
         display: block;
@@ -207,7 +207,7 @@ body {
         line-height: 120px; } }
 
 .wrapper-digital {
-  background: #039BE5;
+  background: #F6ED69;
   padding-bottom: 25px; }
   .wrapper-digital > div a {
     border-bottom: 1px solid white;
@@ -544,7 +544,7 @@ body {
     font-size: 28px;
     line-height: 1.25em;
     margin-bottom: 1em;
-    color: #039BE5; }
+    color: #F6ED69; }
     @media all and (min-width: 1024px) {
       .wrapper-contact h2 {
         font-size: 48px; } }
@@ -581,7 +581,7 @@ body {
         width: 100%; } }
 
 .wrapper-footer {
-  background: #039BE5;
+  background: #F6ED69;
   font-size: 16px;
   line-height: 1.5em;
   padding-bottom: 60px; }
