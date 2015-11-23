@@ -134,7 +134,8 @@ body {
   .wrapper-content > div {
     color: #333333;
     margin: 0 auto;
-    max-width: 1280px;
+    #max-width: 1280px;
+	max-width: 1280px;
     padding-right: 14px;
     padding-left: 14px; }
 
@@ -161,9 +162,9 @@ body {
 
 .wrapper-header {
   *zoom: 1;
-background: #ffffff; 
-border-bottom: 2px solid #e4e3e3; 
-line-height: 50px; }
+background: #ffffff;
+border-bottom: 2px solid #e4e3e3;
+line-height: 10px; }
   .wrapper-header:before, .wrapper-header:after {
     content: "";
     display: table; }
@@ -171,7 +172,7 @@ line-height: 50px; }
     clear: both; }
   .wrapper-header .logo {
     float: left;
-    max-width: 60px;
+    max-width: 30px;
     margin-right: 10px;
     position: relative;
     top: 1px; }
@@ -188,15 +189,15 @@ line-height: 50px; }
 	 position: relative;
 	 top: 1px;
     text-transform: uppercase; }
-	
+
   @media all and (min-width: 1024px) {
     .wrapper-header .logo {
       max-width: 120px;
       top: 5px; }
     .wrapper-header .name {
-      font-size: 36px;
+      font-size: 20px;
       #line-height: 120px; } }
-	  line-height: 70px; } }
+	  line-height: 30px; } }
   .wrapper-header .social-nav-icons {
     display: none; }
     .wrapper-header .social-nav-icons a {
@@ -213,11 +214,12 @@ line-height: 50px; }
     @media all and (min-width: 1024px) {
       .wrapper-header .social-nav-icons li {
         #line-height: 120px; } }
-		line-height: 120px; } }
+		line-height: 30px; } }
 
 .wrapper-digital {
   background: #F2F1F1;
-  padding-bottom: 25px; }
+  padding-bottom: 25px; 
+  max-width: 800px; }
   .wrapper-digital > div a {
     border-bottom: 1px solid white;
     color: white;
@@ -602,7 +604,7 @@ line-height: 50px; }
   .wrapper-footer a {
     color: white;
     text-decoration: none; }
-	
+
 @font-face {
 	font-family:'NeueHaasUnicaPro-Regular';
 	src: url('NeueHaasUnicaPro-Regular_gdi.eot');
