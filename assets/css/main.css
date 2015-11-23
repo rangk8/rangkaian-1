@@ -195,8 +195,7 @@ ul.menu li a:hover {
   width: 98%;
   margin: 0 auto;
   padding: 100px 50px;
-  #background: #fff;
-   background-image: url("http://rangkaian.net/assets/images/cable.jpg");
+  background: #fff;
   overflow: hidden;
   font-size: 21px;
 }
