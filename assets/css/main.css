@@ -325,11 +325,11 @@ div.team:first-child {
 /*END FOOTER*/
 @font-face {
 	font-family:'DIN-Regular';
-	src: url('./assets/font/DIN_gdi.eot');
-	src: url('./assets/font/DIN_gdi.eot?#iefix') format('embedded-opentype'),
-		url('./assets/font/DIN_gdi.woff') format('woff'),
-		url('./assets/font/DIN_gdi.ttf') format('truetype'),
-		url('./assets/font/DIN_gdi.svg#DIN-Regular') format('svg');
+	src: url('http://rangkaian.net/assets/font/DIN_gdi.eot');
+	src: url('http://rangkaian.net/assets/font/DIN_gdi.eot?#iefix') format('embedded-opentype'),
+		url('http://rangkaian.net/assets/font/DIN_gdi.woff') format('woff'),
+		url('http://rangkaian.net/assets/font/DIN_gdi.ttf') format('truetype'),
+		url('http://rangkaian.net/assets/font/DIN_gdi.svg#DIN-Regular') format('svg');
 	font-weight: 400;
 	font-style: normal;
 	font-stretch: normal;
