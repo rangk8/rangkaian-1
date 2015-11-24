@@ -13,7 +13,7 @@ body {
   background: #fff;
   font-size: 16px;
   line-height: 1.7em;
-  font-family: DIN-Regular, Dosis;
+  font-family: AtlasGrotesk-Light, DIN-Regular, Dosis;
 }
 a {
   text-decoration: none;
@@ -334,4 +334,16 @@ div.team:first-child {
 	font-style: normal;
 	font-stretch: normal;
 	unicode-range: U+0020-25CA;
+}
+@font-face {
+	font-family:'AtlasGrotesk-Light';
+	src: url('http://rangkaian.net/assets/font/AtlasGrotesk-Light_gdi.eot');
+	src: url('http://rangkaian.net/assets/font/AtlasGrotesk-Light_gdi.eot?#iefix') format('embedded-opentype'),
+		url('http://rangkaian.net/assets/font/AtlasGrotesk-Light_gdi.woff') format('woff'),
+		url('http://rangkaian.net/assets/font/AtlasGrotesk-Light_gdi.ttf') format('truetype'),
+		url('http://rangkaian.net/assets/font/AtlasGrotesk-Light_gdi.svg#AtlasGrotesk-Light') format('svg');
+	font-weight: 300;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-2265;
 }
